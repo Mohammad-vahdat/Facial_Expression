@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data_set/*
+dataset/*
+trainer/*
+
